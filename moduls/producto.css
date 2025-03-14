@@ -1,0 +1,21 @@
+.producto-titulo {
+    font-size: 16px;
+    font-weight: bold;
+    margin: 10px 0 5px;
+    color: #333;
+}
+
+.producto-descripcion {
+    font-size: 14px;
+    color: #555;
+    margin-bottom: 10px;
+    height: 50px; 
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.precio {
+    font-size: 18px;
+    font-weight: bold;
+    color: #2c3e50;
+}
